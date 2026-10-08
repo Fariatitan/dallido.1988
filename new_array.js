@@ -1,21 +1,5 @@
 const artworks = [
   {
-    title: "A DANCA - 01",
-    technique: "Fine Art / Canvas Preto",
-    dimensions: "Tamanhos sob consulta",
-    src: "assets_v2/A DANCA_PURA_0.jpg",
-    mockup: "assets_v2/A DANCA_MOCKUP_0.jpg",
-    series: "A DANCA"
-  },
-  {
-    title: "A PISTA - 02",
-    technique: "Fine Art / Canvas Preto",
-    dimensions: "Tamanhos sob consulta",
-    src: "assets_v2/A PISTA_PURA_1.jpg",
-    mockup: "assets_v2/A PISTA_MOCKUP_1.jpg",
-    series: "A PISTA"
-  },
-  {
     title: "BOYS / POP - 03",
     technique: "Fine Art / Canvas Preto",
     dimensions: "Tamanhos sob consulta",
@@ -24,20 +8,12 @@ const artworks = [
     series: "BOYS / POP"
   },
   {
-    title: "REDIMENSIONADOS - 04",
-    technique: "Fine Art / Canvas Preto",
-    dimensions: "Tamanhos sob consulta",
-    src: "assets_v2/REDIMENSIONADOS_PURA_3.jpg",
-    mockup: "assets_v2/REDIMENSIONADOS_MOCKUP_3.jpg",
-    series: "REDIMENSIONADOS"
-  },
-  {
-    title: "ASSETS - 05",
+    title: "BOYS 003",
     technique: "Fine Art / Canvas Preto",
     dimensions: "Tamanhos sob consulta",
     src: "assets_v2/ASSETS_PURA_4.jpg",
     mockup: "assets_v2/ASSETS_MOCKUP_4.jpg",
-    series: "ASSETS"
+    series: "BOYS"
   },
   {
     title: "CABARET - 06",
@@ -62,14 +38,6 @@ const artworks = [
     src: "assets_v2/ORBITANTE_PURA_7.jpg",
     mockup: "assets_v2/ORBITANTE_MOCKUP_7.jpg",
     series: "ORBITANTE"
-  },
-  {
-    title: "ANTIGOS - 09",
-    technique: "Fine Art / Canvas Preto",
-    dimensions: "Tamanhos sob consulta",
-    src: "assets_v2/ANTIGOS_PURA_8.jpg",
-    mockup: "assets_v2/ANTIGOS_MOCKUP_8.jpg",
-    series: "ANTIGOS"
   },
   {
     title: "NOTURNA - 010",
@@ -104,28 +72,20 @@ const artworks = [
     series: "NOTURNA"
   },
   {
-    title: "ALTA - 014",
+    title: "NOTURNA 04",
     technique: "Fine Art / Canvas Preto",
     dimensions: "Tamanhos sob consulta",
     src: "assets_v2/ALTA_PURA_13.jpg",
     mockup: "assets_v2/ALTA_MOCKUP_13.jpg",
-    series: "ALTA"
+    series: "NOTURNA"
   },
   {
-    title: "A PISTA - 015",
-    technique: "Fine Art / Canvas Preto",
-    dimensions: "Tamanhos sob consulta",
-    src: "assets_v2/A PISTA_PURA_14.jpg",
-    mockup: "assets_v2/A PISTA_MOCKUP_14.jpg",
-    series: "A PISTA"
-  },
-  {
-    title: "ACERVO - 016",
+    title: "A PISTA 015",
     technique: "Fine Art / Canvas Preto",
     dimensions: "Tamanhos sob consulta",
     src: "assets_v2/ACERVO_PURA_15.jpg",
     mockup: "assets_v2/ACERVO_MOCKUP_15.jpg",
-    series: "ACERVO"
+    series: "A PISTA"
   },
   {
     title: "ACERVO - 017",
